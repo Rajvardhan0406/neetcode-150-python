@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
