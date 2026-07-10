@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
