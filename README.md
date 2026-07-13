@@ -148,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
