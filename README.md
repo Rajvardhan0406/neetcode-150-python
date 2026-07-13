@@ -168,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
