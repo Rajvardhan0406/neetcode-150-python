@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0125-valid-palindrome) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
