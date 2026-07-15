@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0739-daily-temperatures) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -235,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
