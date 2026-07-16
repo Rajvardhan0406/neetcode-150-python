@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 ## Union-Find
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
