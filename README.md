@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0991-broken-calculator](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0991-broken-calculator) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
+## Greedy
+|  |
+| ------- |
+| [0991-broken-calculator](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0991-broken-calculator) |
 <!---LeetCode Topics End-->
