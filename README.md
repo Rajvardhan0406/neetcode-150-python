@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 ## Greedy
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Minimum Spanning Tree
 |  |
