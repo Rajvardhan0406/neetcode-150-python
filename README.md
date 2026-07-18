@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0138-copy-list-with-random-pointer) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0100-same-tree) |
+| [0127-word-ladder](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0200-number-of-islands) |
