@@ -15,7 +15,6 @@ class Solution:
                 pattern = word[:i] + '*' + word[i+1:]
                 pattern_map[pattern].append(word)
         
-        # BFS
         visited = {beginWord}
         queue = deque([(beginWord, 1)])
         
