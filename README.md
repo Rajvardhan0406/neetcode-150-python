@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
