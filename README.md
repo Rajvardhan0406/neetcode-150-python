@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0543-diameter-of-binary-tree) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 ## Eulerian Circuit
 |  |
