@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
