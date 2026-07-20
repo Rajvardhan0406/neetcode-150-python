@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
