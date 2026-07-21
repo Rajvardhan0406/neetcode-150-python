@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Tree
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
