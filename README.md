@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
+| [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1971-find-if-path-exists-in-graph) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
