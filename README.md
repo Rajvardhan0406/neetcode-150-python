@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
 ## Union-Find
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1462-course-schedule-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
