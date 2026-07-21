@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
@@ -398,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
