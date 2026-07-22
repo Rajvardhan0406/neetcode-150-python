@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
