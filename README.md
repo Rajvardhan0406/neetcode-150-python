@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1462-course-schedule-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
