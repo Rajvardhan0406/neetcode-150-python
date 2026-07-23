@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
+| [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
+| [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
+| [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
 ## Tree
 |  |
 | ------- |
