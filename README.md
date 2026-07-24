@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
 | [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
+| [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
+| [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 ## Divide and Conquer
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
+| [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1462-course-schedule-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1462-course-schedule-iv) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
+| [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
