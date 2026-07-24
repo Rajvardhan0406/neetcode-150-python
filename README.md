@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
+| [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1462-course-schedule-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
