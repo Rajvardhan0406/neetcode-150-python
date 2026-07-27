@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
 | [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0991-broken-calculator) |
 ## Backtracking
 |  |
@@ -487,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
