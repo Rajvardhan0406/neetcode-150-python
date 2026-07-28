@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0743-network-delay-time) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 ## Design
 |  |
 | ------- |
