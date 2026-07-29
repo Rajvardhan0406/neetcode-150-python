@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
+| [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
+| [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
 ## Math
 |  |
 | ------- |
