@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0729-my-calendar-i](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -529,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
