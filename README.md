@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 ## String
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -521,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
