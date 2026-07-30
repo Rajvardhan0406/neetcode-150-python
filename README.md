@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -555,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
