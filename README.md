@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 | [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Binary Search
 |  |
 | ------- |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
 |  |
 | ------- |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1462-course-schedule-iv) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Eulerian Circuit
 |  |
 | ------- |
