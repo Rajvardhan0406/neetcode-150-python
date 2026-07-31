@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
+| [1630-arithmetic-subarrays](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1630-arithmetic-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2101-detonate-the-maximum-bombs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 | [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
+| [1630-arithmetic-subarrays](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1630-arithmetic-subarrays) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
+| [1630-arithmetic-subarrays](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1630-arithmetic-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
