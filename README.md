@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0677-map-sum-pairs](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0677-map-sum-pairs) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
 ## Simulation
 |  |
