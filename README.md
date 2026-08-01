@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
 | [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1905-count-sub-islands) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1192-critical-connections-in-a-network) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
