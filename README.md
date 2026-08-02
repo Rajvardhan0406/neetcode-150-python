@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
