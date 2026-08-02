@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
