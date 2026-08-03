@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0200-number-of-islands) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
