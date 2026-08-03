@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0692-top-k-frequent-words) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
