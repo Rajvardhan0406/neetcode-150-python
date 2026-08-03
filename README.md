@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
