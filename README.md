@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
@@ -629,9 +631,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
