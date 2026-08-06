@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0343-integer-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0991-broken-calculator) |
