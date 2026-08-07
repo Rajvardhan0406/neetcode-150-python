@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
 | [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0815-bus-routes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
+| [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
 | [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
 | [1630-arithmetic-subarrays](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1630-arithmetic-subarrays) |
 ## Heap (Priority Queue)
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
+| [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0981-time-based-key-value-store) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
+| [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1396-design-underground-system](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1396-design-underground-system) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
