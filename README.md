@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0721-accounts-merge) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0773-sliding-puzzle](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0773-sliding-puzzle) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
 | [0991-broken-calculator](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0991-broken-calculator) |
 ## Shortest Path
@@ -672,5 +676,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
