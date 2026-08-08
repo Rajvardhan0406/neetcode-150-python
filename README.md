@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0516-longest-palindromic-subsequence) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0376-wiggle-subsequence) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0767-reorganize-string) |
