@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0084-largest-rectangle-in-histogram) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0376-wiggle-subsequence) |
 | [0621-task-scheduler](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0621-task-scheduler) |
