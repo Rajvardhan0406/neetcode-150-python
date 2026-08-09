@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-snakes-and-ladders](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0909-snakes-and-ladders) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0980-unique-paths-iii) |
+| [0986-interval-list-intersections](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0990-satisfiability-of-equality-equations) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1036-escape-a-large-maze) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0658-find-k-closest-elements) |
+| [0986-interval-list-intersections](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 ## String
 |  |
@@ -696,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
