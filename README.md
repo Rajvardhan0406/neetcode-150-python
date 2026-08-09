@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-snapshot-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1146-snapshot-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1162-as-far-from-land-as-possible) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1288-remove-covered-intervals](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1345-jump-game-iv](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1345-jump-game-iv) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1288-remove-covered-intervals) |
 | [1630-arithmetic-subarrays](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/1630-arithmetic-subarrays) |
 ## Heap (Priority Queue)
 |  |
