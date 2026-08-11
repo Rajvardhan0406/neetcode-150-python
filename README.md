@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0055-jump-game) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Rajvardhan0406/neetcode-150-python/tree/master/0494-target-sum) |
